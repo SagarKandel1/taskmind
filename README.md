@@ -1,4 +1,5 @@
 TaskMind
+
 TaskMind is a modern backend REST API built with Spring Boot 3.5.4, designed to help users efficiently manage tasks. It features:
 
 Secure user authentication with JWT
